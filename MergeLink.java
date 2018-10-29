@@ -56,7 +56,7 @@ public class MergeLink {
   public static void main(String[] args) {
     Linkedlist L = new Linkedlist();
     Linkedlist M = new Linkedlist();
-    MergeLink N = new MergeLink();
+    MergeLink N = new MergeLink();//To merge the links.
     L.addNode(1);
     L.addNode(4);
     L.addNode(5);
